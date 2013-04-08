@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[LittleQ Tech Note]]></title>
   <link href="http://littleq0903.github.com/littleq0903/atom.xml" rel="self"/>
   <link href="http://littleq0903.github.com/littleq0903/"/>
-  <updated>2013-04-08T22:27:42+08:00</updated>
+  <updated>2013-04-08T22:42:36+08:00</updated>
   <id>http://littleq0903.github.com/littleq0903/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
-    
+    <name><![CDATA[Colin Su]]></name>
+    <email><![CDATA[littleq0903@gmail.com]]></email>
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
