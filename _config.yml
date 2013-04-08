@@ -3,9 +3,9 @@
 # ----------------------- #
 
 url: http://littleq0903.github.com/littleq0903
-title: My Octopress Blog
+title: LittleQ's Tech Note
 subtitle: A blogging framework for hackers.
-author: Your Name
+author: Colin Su
 simple_search: http://google.com/search
 description:
 
@@ -17,9 +17,9 @@ date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
 subscribe_rss: /littleq0903/atom.xml
-subscribe_email:
+subscribe_email: 
 # RSS feeds can list your email address if you like
-email:
+email: littleq0903@gmail.com
 
 # ----------------------- #
 #    Jekyll & Plugins     #
@@ -58,13 +58,13 @@ default_asides: [asides/recent_posts.html, asides/github.html, asides/delicious.
 # ----------------------- #
 
 # Github repositories
-github_user:
-github_repo_count: 0
+github_user: littleq0903
+github_repo_count: 5
 github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: littleq0903
 twitter_tweet_button: true
 
 # Google +1
