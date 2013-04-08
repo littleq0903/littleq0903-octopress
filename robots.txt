@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://littleq0903.github.com/littleq0903/sitemap.xml 
