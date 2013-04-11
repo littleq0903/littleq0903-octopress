@@ -4,7 +4,7 @@
   <title><![CDATA[LittleQ Tech Note]]></title>
   <link href="http://littleq0903.github.com/littleq0903/atom.xml" rel="self"/>
   <link href="http://littleq0903.github.com/littleq0903/"/>
-  <updated>2013-04-09T00:44:30+08:00</updated>
+  <updated>2013-04-11T19:00:03+08:00</updated>
   <id>http://littleq0903.github.com/littleq0903/</id>
   <author>
     <name><![CDATA[Colin Su]]></name>
@@ -18,7 +18,10 @@
     <link href="http://littleq0903.github.com/littleq0903/blog/2013/04/08/moved-to-new-blog-powered-by-octopress/"/>
     <updated>2013-04-08T23:55:00+08:00</updated>
     <id>http://littleq0903.github.com/littleq0903/blog/2013/04/08/moved-to-new-blog-powered-by-octopress</id>
-    <content type="html"><![CDATA[<p>I think currently modern blog systems are not suitable for programmers or hackers, for these reason I decided to switch to use Octopress, a blogger system can let you deploy your whole blogging system onto Github:</p>
+    <content type="html"><![CDATA[<p>I think currently modern blog systems are not suitable for programmers or hackers, for these reason I decided to switch to use Octopress, a blogging system can let you deploy your whole blogging system onto Github:</p>
+
+<!-- more -->
+
 
 <h3>Markdown</h3>
 
@@ -32,10 +35,18 @@ For an instance, blogger allows you added your js scripts to enable syntax highl
 <p>and in Octopress, we can just take advantage of using markdown, the editing article become very simple, that you could find out any code block in your articles in a second.</p>
 
 <figure class='code'><div class="highlight"><table><tr><td class="gutter"><pre class="line-numbers"><span class='line-number'>1</span>
-</pre></td><td class='code'><pre><code class=''><span class='line'>Adding code blocks in Octopress is f*cking easy!</span></code></pre></td></tr></table></div></figure>
+</pre></td><td class='code'><pre><code class=''><span class='line'>Adding code blocks in Octopress is a piece of cake!</span></code></pre></td></tr></table></div></figure>
 
 
+<h3>Editing with VIM</h3>
 
+<p>This is very important for me!</p>
+
+<p>I trust this is also important for everyone that can use favorite text editor for writing blogs.</p>
+
+<h3>Hosting on anywhere you want</h3>
+
+<p>中文測試</p>
 ]]></content>
   </entry>
   
